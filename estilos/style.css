@@ -60,7 +60,7 @@ body {
     gap: 82px;
 }
  .apresentacao__conteudo {
-    width: 80%; 
+    width: 72%; 
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -115,7 +115,7 @@ gap: 32px;
 }
 
 .apresentacao__imagem {
-    width: 100%;
+    width: 80%;
 }
 .rodape{
     padding: 24px;
